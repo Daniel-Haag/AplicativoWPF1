@@ -1,0 +1,17 @@
+D:\Microsoft Docs\Names\bin\Debug\netcoreapp3.1\Names.exe
+D:\Microsoft Docs\Names\bin\Debug\netcoreapp3.1\Names.deps.json
+D:\Microsoft Docs\Names\bin\Debug\netcoreapp3.1\Names.runtimeconfig.json
+D:\Microsoft Docs\Names\bin\Debug\netcoreapp3.1\Names.runtimeconfig.dev.json
+D:\Microsoft Docs\Names\bin\Debug\netcoreapp3.1\Names.dll
+D:\Microsoft Docs\Names\bin\Debug\netcoreapp3.1\Names.pdb
+D:\Microsoft Docs\Names\obj\Debug\netcoreapp3.1\Names.csprojAssemblyReference.cache
+D:\Microsoft Docs\Names\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Microsoft Docs\Names\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Microsoft Docs\Names\obj\Debug\netcoreapp3.1\Names_MarkupCompile.cache
+D:\Microsoft Docs\Names\obj\Debug\netcoreapp3.1\Names_MarkupCompile.lref
+D:\Microsoft Docs\Names\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Microsoft Docs\Names\obj\Debug\netcoreapp3.1\Names.g.resources
+D:\Microsoft Docs\Names\obj\Debug\netcoreapp3.1\Names.AssemblyInfoInputs.cache
+D:\Microsoft Docs\Names\obj\Debug\netcoreapp3.1\Names.AssemblyInfo.cs
+D:\Microsoft Docs\Names\obj\Debug\netcoreapp3.1\Names.dll
+D:\Microsoft Docs\Names\obj\Debug\netcoreapp3.1\Names.pdb
